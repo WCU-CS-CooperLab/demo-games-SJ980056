@@ -2,3 +2,5 @@
 A template repository to publish games
 
 [Player Scene](player_scene)
+[Player Scene 8/31](player_scene_8_31)
+[Main Scene 9/4](main_scene_9_4)
