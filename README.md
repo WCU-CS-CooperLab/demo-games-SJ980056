@@ -21,4 +21,5 @@ Project 1
 Mini Golf
 
 [Mini Golf 2/23](mini_golf_9_23)
+
 [Mini Golf 2/25](mini_golf_main_9_25)
