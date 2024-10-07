@@ -27,6 +27,9 @@ Mini Golf
 Jungle Jump
 
 [Jungle Jump First](JJ_main_scene_first)
+
 [Jungle Jump 9/30](JJ_player_scene_9_30)
+
 [Jungle Jump 10/2](JJ_main_scene_10_2)
+
 [Jungle Jump 10/4](JJ_level_one_10_4)
