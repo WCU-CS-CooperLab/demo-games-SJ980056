@@ -33,3 +33,5 @@ Jungle Jump
 [Jungle Jump 10/2](JJ_main_scene_10_2)
 
 [Jungle Jump 10/4](JJ_level_one_10_4)
+
+[Jungle Jump 10/7](JJ_level_one_10_7)
