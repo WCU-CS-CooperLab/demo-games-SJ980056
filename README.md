@@ -39,4 +39,5 @@ Jungle Jump
 Project 2
 
 [Phase 1](Project2_Phase1)
+
 [Phase 2](Project2_Phase2)
