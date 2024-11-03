@@ -41,3 +41,9 @@ Project 2
 [Phase 1](Project2_Phase1)
 
 [Phase 2](Project2_Phase2)
+
+Project 3
+
+[Phase 1](Project3_Phase1)
+
+[Phase 2](Project3_Phase2)
